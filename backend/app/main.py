@@ -18,11 +18,10 @@ logger = logging.getLogger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("🔥 Warming up RAG components...")
+    logger.info("🔥 Starting PRATINIDHI RAG Backend...")
     try:
         # Initialize DB Pool
         db_url = os.getenv("DATABASE_URL")
-        # Ensure we don't connect to serverless pooler incorrectly on Windows
         if db_url and "pooler" in db_url:
             db_url = db_url.replace("?sslmode=require&channel_binding=require", "?sslmode=require")
         
@@ -30,19 +29,22 @@ async def lifespan(app: FastAPI):
             app.state.pool = await asyncpg.create_pool(db_url, min_size=1, max_size=10)
             logger.info("✅ Asyncpg connection pool ready.")
         else:
-            logger.error("⚠️ DATABASE_URL not set in .env! Offline/Local DB not fully hooked to asyncpg here.")
+            logger.warning("⚠️ DATABASE_URL not set — DB features will be unavailable.")
             app.state.pool = None
             
-        from app.rag.retrieval import get_vectorstore, get_llm
-        # get_vectorstore()   # loads ChromaDB index into memory
-        # get_llm()           # initialises LLM client
-        logger.info("✅ RAG components bypassed on startup to prevent cloud timeout — will load on first request.")
-    except FileNotFoundError:
-        logger.warning(
-            "⚠️  ChromaDB not found — POST /api/ingest to build the index."
-        )
+        # Auto-build ChromaDB if it doesn't exist (first cloud boot)
+        from app.rag.ingestion import CHROMA_DB_DIR, ingest_all
+        if not os.path.exists(CHROMA_DB_DIR):
+            logger.info("🔨 ChromaDB not found — building from data/ files now...")
+            import threading
+            t = threading.Thread(target=ingest_all, daemon=True)
+            t.start()
+            logger.info("✅ ChromaDB build started in background thread.")
+        else:
+            logger.info("✅ ChromaDB found on disk — ready to serve queries.")
+
     except Exception as e:
-        logger.error("Warmup error (non-fatal): %s", e)
+        logger.error("Startup error (non-fatal): %s", e)
     yield
     
     # Shutdown DB Pool

@@ -13,22 +13,26 @@ ENV HOME=/home/user \
 # Set the working directory to the user's home directory
 WORKDIR $HOME/app
 
-# Copy the current directory contents into the container at $HOME/app setting the owner to the user
+# Copy the current directory contents into the container
 COPY --chown=user . $HOME/app
 
-# Install dependencies
+# Install dependencies from backend/requirements.txt
 RUN pip install --no-cache-dir -r backend/requirements.txt
+
+# Switch to backend directory so Python module paths resolve correctly
+WORKDIR $HOME/app/backend
+
+# Set LLM_PROVIDER so we use local HuggingFace embeddings at build time (no API key needed)
+ENV LLM_PROVIDER=groq
+
+# Build the ChromaDB vector database from the text files in data/
+# The || echo ensures a build failure here doesn't abort the whole build
+RUN python -c "from app.rag.ingestion import ingest_all; ingest_all()" || echo "Ingestion failed — will retry on first request"
 
 # Expose the port Hugging Face expects
 ENV PORT=7860
 EXPOSE 7860
 
-# Rebuild the ChromaDB index during the Docker build so it's ready instantly
-# We use a quiet python script to trigger the ingestion
-RUN python -c "import os; from backend.app.rag.ingestion import ingest_all; ingest_all()" || echo "Ingestion skipped or failed, will retry on startup"
-
-# Switch working directory to backend so Python imports (like 'app.main') resolve correctly
-WORKDIR $HOME/app/backend
-
 # Run the FastAPI server
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]
+

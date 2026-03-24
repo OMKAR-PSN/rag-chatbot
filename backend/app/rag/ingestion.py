@@ -88,5 +88,15 @@ def process_and_store_documents():
     print("Ingestion complete.")
     return True
 
+def ingest_all():
+    """Entry point callable from Dockerfile RUN step and FastAPI lifespan."""
+    result = process_and_store_documents()
+    if result:
+        logger.info("✅ Ingestion complete — ChromaDB is ready.")
+    else:
+        logger.warning("⚠️ Ingestion produced no documents. Check the data/ folder.")
+    return result
+
+
 if __name__ == "__main__":
     process_and_store_documents()
