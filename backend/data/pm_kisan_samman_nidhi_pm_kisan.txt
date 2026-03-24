@@ -1,0 +1,35 @@
+# Scheme Name: PM Kisan Samman Nidhi (PM-KISAN)
+
+## Overview:
+PM Kisan Samman Nidhi is a central government scheme that gives direct financial help to small and marginal farmers. Every eligible farmer receives Rs 6000 per year, sent directly to their bank account in three equal instalments of Rs 2000 each. The goal is to help farmers meet farming expenses and household needs.
+
+## Eligibility Criteria:
+- All farmers who own and cultivate farmland are eligible
+- Both small and large landholding farmers are covered (no land size restriction at national level)
+- Farmer must be a citizen of India
+- Land must be registered in the farmer's name or jointly with spouse
+- Husband and wife can both apply if land is registered in both names separately
+
+## Key Benefits:
+- Rs 6000 per year directly transferred to bank account
+- Money comes in three instalments of Rs 2000 each in April, August, and December
+- No repayment required — this is a direct benefit, not a loan
+- Money can be used for seeds, fertilisers, or any farming or household need
+
+## Documents Required:
+- Aadhaar card (mandatory)
+- Bank account passbook (account must be linked to Aadhaar)
+- Land ownership documents such as Khatian or 7/12 extract
+- Mobile number
+- Passport size photograph
+
+## How to Apply:
+1. Visit pmkisan.gov.in and click "Farmer Corner" then "New Farmer Registration"
+2. Enter your Aadhaar number and state name
+3. Fill in your bank account details and land details
+4. Alternatively, visit your nearest Common Service Centre (CSC) with documents
+5. The local Patwari, Revenue Officer, or Lekhpal can also register you
+6. Check your payment status at pmkisan.gov.in under "Beneficiary Status"
+7. Helpline number: 155261 or 011-24300606
+
+---

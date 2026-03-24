@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+langchain-huggingface
+langchain-groq
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+python-multipart
+asyncpg
+websockets

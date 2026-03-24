@@ -1,0 +1,39 @@
+# Scheme Name: Pradhan Mantri Awas Yojana Gramin (PMAY-G)
+
+## Overview:
+PMAY-G is a government scheme that gives financial help to homeless and poor rural families to build a pucca house with basic facilities. Eligible families receive Rs 1.20 lakh in hilly and difficult areas or Rs 1.20 lakh in plains to build their home. The scheme also provides support for toilet construction under Swachh Bharat Mission.
+
+## Eligibility Criteria:
+- Families listed as houseless in the SECC 2011 data with 0, 1, or 2 rooms of kutcha wall and roof
+- Priority given to SC/ST families, freed bonded labourers, minorities, widows, and differently abled persons
+- Family must be in the rural area — urban applicants apply under PMAY Urban
+- Applicant or any family member should not already own a pucca house anywhere in India
+- Annual income of the family should be below Rs 3 lakh for the lowest income group
+
+## Key Benefits:
+- Rs 1.20 lakh financial assistance for house construction in plains
+- Rs 1.30 lakh in hilly states, North East, and difficult terrains
+- Additional Rs 12,000 for toilet construction under Swachh Bharat Mission
+- Rs 90 days wages under MGNREGA for unskilled labour during construction
+- Money is transferred directly to the beneficiary's bank account in instalments
+- Technical support and house design plans provided free of charge
+
+## Documents Required:
+- Aadhaar card
+- Bank account passbook linked to Aadhaar
+- SECC registration or BPL card
+- Caste certificate for SC/ST applicants
+- Ration card
+- Income certificate
+- Land documents showing plot ownership
+
+## How to Apply:
+1. Check if your name is in the SECC 2011 beneficiary list at your Gram Panchayat
+2. Visit your Gram Panchayat office and inform them of your interest
+3. The Gram Sabha approves the beneficiary list — attend Gram Sabha meetings
+4. Once approved, register at pmayg.nic.in or through your Block Development Officer
+5. Carry your Aadhaar card, bank passbook, and land documents
+6. A field verification visit will be conducted by local officials
+7. Helpline: 1800-11-6446
+
+---

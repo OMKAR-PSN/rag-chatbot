@@ -1,0 +1,43 @@
+# Scheme Name: National Social Assistance Programme (NSAP) — Including IGNOAPS, IGNWPS, IGNDPS
+
+## Overview:
+The National Social Assistance Programme provides monthly financial assistance to elderly people, widows, and persons with severe disabilities from poor households. It includes three main sub-schemes: the Indira Gandhi National Old Age Pension Scheme for senior citizens, the Indira Gandhi National Widow Pension Scheme for widows, and the Indira Gandhi National Disability Pension Scheme for disabled persons.
+
+## Eligibility Criteria:
+For Old Age Pension (IGNOAPS):
+- Must be 60 years of age or above
+- Must belong to a Below Poverty Line (BPL) household
+
+For Widow Pension (IGNWPS):
+- Must be a widow aged 40 years or above
+- Must belong to a BPL household
+
+For Disability Pension (IGNDPS):
+- Must be aged 18 years or above
+- Must have severe or multiple disabilities of 80 percent or more
+- Must belong to a BPL household
+
+## Key Benefits:
+- Monthly pension of Rs 200 per month for beneficiaries aged 60 to 79 years
+- Monthly pension of Rs 500 per month for beneficiaries aged 80 years and above
+- Many state governments add additional amount on top of the central pension
+- Widow and disability pension amounts vary by state but are generally Rs 300 to Rs 500 per month
+- Money is sent directly to the beneficiary's bank or post office account
+
+## Documents Required:
+- Aadhaar card
+- BPL card or SECC registration proof
+- Age proof such as birth certificate or school certificate or Aadhaar
+- Bank account or post office account details
+- For widow pension: death certificate of husband
+- For disability pension: disability certificate from government hospital showing 80 percent or more disability
+
+## How to Apply:
+1. Visit your Gram Panchayat office in rural areas or Ward office in urban areas
+2. Ask for the NSAP pension application form
+3. Fill in the form and attach all required documents
+4. Submit to the Gram Panchayat Pradhan or Ward Councillor
+5. The application is forwarded to the Block Development Officer for verification
+6. After verification and approval, pension is credited to your account monthly
+7. You can also apply through your state government's social welfare portal
+8. Check your state's social welfare department website for exact pension amount and additional benefits in your state

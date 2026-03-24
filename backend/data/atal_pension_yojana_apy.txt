@@ -1,0 +1,35 @@
+# Scheme Name: Atal Pension Yojana (APY)
+
+## Overview:
+Atal Pension Yojana is a pension scheme designed for workers in the unorganised sector such as maids, drivers, farmers, and daily wage workers who do not have a regular pension. If you contribute a small amount every month during your working years, you receive a guaranteed monthly pension of Rs 1000 to Rs 5000 after age 60 for the rest of your life.
+
+## Eligibility Criteria:
+- Indian citizen between 18 and 40 years of age
+- Must have a savings bank account or post office savings account
+- Must have a mobile number linked to the bank account
+- Cannot be an income tax payer (since October 2022, income tax payers are not eligible for new enrolments)
+- Existing subscribers who were enrolled before October 2022 are not affected
+
+## Key Benefits:
+- Guaranteed pension of Rs 1000, 2000, 3000, 4000, or Rs 5000 per month after age 60
+- After the subscriber's death, the spouse receives the same pension for their lifetime
+- After both subscriber and spouse die, the nominee receives the entire accumulated corpus as a lump sum
+- Monthly contribution amount is very small — depends on age at joining and pension amount chosen
+- Example: Joining at age 18 for Rs 1000 pension requires only Rs 42 per month contribution
+
+## Documents Required:
+- Aadhaar card
+- Mobile number linked to the Aadhaar and bank account
+- Bank account or post office savings account details
+- Nominee's name and relationship details
+
+## How to Apply:
+1. Visit any bank branch or post office where you have a savings account
+2. Ask for the Atal Pension Yojana enrollment form
+3. Fill in your personal details, bank details, preferred pension amount, and nominee details
+4. The bank will auto-debit your monthly contribution from your savings account
+5. You can also enroll online through your bank's net banking or mobile banking app
+6. Search for "APY" in your bank's app — most major banks have this feature
+7. Once enrolled, you will receive a PRAN number (Permanent Retirement Account Number) for tracking
+
+---

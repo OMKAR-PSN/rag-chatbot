@@ -1,0 +1,36 @@
+# Scheme Name: PM Jan Dhan Yojana (PMJDY)
+
+## Overview:
+PM Jan Dhan Yojana is a financial inclusion scheme that ensures every Indian household has at least one bank account. The account is opened free of charge with zero minimum balance. Along with the bank account, account holders also receive a RuPay debit card, life insurance cover, and access to other government benefits.
+
+## Eligibility Criteria:
+- Any Indian citizen who does not have a bank account can open a Jan Dhan account
+- No minimum age — even minors above 10 years can open an account
+- No income or occupation criteria — open to everyone
+- People in remote and rural areas are especially encouraged to apply
+- Existing bank account holders are not eligible for a new Jan Dhan account
+
+## Key Benefits:
+- Zero balance savings account — no minimum balance required
+- Free RuPay debit card with accident insurance cover of Rs 2 lakh
+- Life insurance cover of Rs 30,000 for account holders who opened before January 2015
+- Overdraft facility of up to Rs 10,000 after satisfactory account operation for 6 months
+- All government scheme payments like PM Kisan, scholarships, and pensions come directly to this account
+- Access to micro-insurance and pension products
+
+## Documents Required:
+- Aadhaar card (most banks accept Aadhaar as both identity and address proof)
+- If no Aadhaar, then any government ID like voter ID, NREGA card, or PAN card
+- One passport size photograph
+- Mobile number (optional but recommended for SMS alerts)
+
+## How to Apply:
+1. Visit any bank branch — government or private — and ask for the PM Jan Dhan Yojana form
+2. You can also open it at a Bank Mitra or Business Correspondent point in your village
+3. Fill in the form with your personal details and address
+4. Submit with Aadhaar card and photograph
+5. Account is opened on the same day in most cases
+6. A RuPay debit card will be sent to your address within 15 days
+7. Link your Aadhaar to this account to receive government benefits directly
+
+---

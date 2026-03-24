@@ -1,0 +1,38 @@
+# Scheme Name: PM Fasal Bima Yojana (PMFBY)
+
+## Overview:
+PM Fasal Bima Yojana is a crop insurance scheme that protects farmers from financial loss when their crops are damaged due to natural disasters like floods, drought, hailstorm, pest attacks, or unseasonal rain. Farmers pay a very small premium and the government pays a large portion of the insurance cost. If the crop is damaged, the farmer receives compensation directly in their bank account.
+
+## Eligibility Criteria:
+- All farmers growing notified crops in notified areas are eligible
+- Both loanee farmers (who have taken crop loans) and non-loanee farmers can apply
+- Sharecroppers and tenant farmers are also eligible
+- Loanee farmers are enrolled automatically by their bank — they can opt out if they wish
+- Non-loanee farmers must apply voluntarily before the cutoff date
+
+## Key Benefits:
+- Insurance cover for total loss or partial loss of crop
+- Premium rates are very low — 2 percent for Kharif crops, 1.5 percent for Rabi crops, 5 percent for commercial and horticultural crops
+- Government pays the remaining premium amount
+- Compensation paid for losses due to drought, flood, hailstorm, cyclone, pest and disease
+- Post-harvest losses covered for up to 14 days after harvest
+- Losses due to fire, lightning, storm, hailstorm covered even before harvest
+
+## Documents Required:
+- Aadhaar card
+- Bank account passbook linked to Aadhaar
+- Land ownership documents or lease agreement
+- Sowing certificate from Patwari or Gram Panchayat
+- Mobile number
+
+## How to Apply:
+1. Loanee farmers are registered automatically by their bank when they take crop loans
+2. Non-loanee farmers must visit their nearest bank branch or CSC before the enrollment deadline
+3. Enrollment deadline is typically last week of July for Kharif and last week of December for Rabi
+4. Carry your Aadhaar, bank passbook, and land or sowing documents
+5. You can also apply online at pmfby.gov.in or through the Farmer app
+6. After applying, an insurance certificate is issued
+7. In case of crop damage, inform your bank or insurance company within 72 hours
+8. Helpline: 1800-200-7710
+
+---

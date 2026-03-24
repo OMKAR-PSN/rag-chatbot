@@ -1,0 +1,38 @@
+# Scheme Name: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+
+## Overview:
+Ayushman Bharat PM-JAY is the world's largest government-funded health insurance scheme. It gives poor and vulnerable families free health insurance of up to Rs 5 lakh per year. The money can be used for treatment at any government or empanelled private hospital in India.
+
+## Eligibility Criteria:
+- Families listed in the Socio-Economic Caste Census (SECC) 2011 data are automatically eligible
+- Rural families who live in kutcha houses, have no adult earning member, belong to SC/ST, or earn income mainly from manual labour
+- Urban workers including rag pickers, domestic workers, street vendors, construction workers, sanitation workers, home-based workers, and beggars
+- There is no upper limit on family size — the entire family is covered
+- There is no age limit — newborns to elderly all covered
+- You do not need to pay any premium or registration fee
+
+## Key Benefits:
+- Free health cover of Rs 5 lakh per family per year
+- Covers hospitalisation costs including room charges, doctor fees, medicines, tests, and surgery
+- Covers pre-existing diseases from day one — no waiting period
+- Covers 1,949 medical and surgical packages across 27 specialties
+- Cashless and paperless treatment at any empanelled hospital
+- Covers 3 days before hospitalisation and 15 days after discharge expenses
+- Free Ayushman card issued to every eligible family member
+
+## Documents Required:
+- Aadhaar card (mandatory for identity verification)
+- Ration card to verify family details
+- Mobile number linked to Aadhaar
+- Caste certificate if applicable (for SC/ST families)
+- Income certificate if needed
+
+## How to Apply:
+1. Visit pmjay.gov.in and click "Am I Eligible" to check if your family is in the list
+2. Enter your mobile number and verify with OTP
+3. If eligible, visit the nearest government hospital or Common Service Centre (CSC)
+4. Carry your Aadhaar card and ration card
+5. The hospital Ayushman Mitra will verify your details and issue your Ayushman card on the spot
+6. Use this card at any empanelled hospital for free treatment
+
+---
