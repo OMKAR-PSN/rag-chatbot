@@ -1,7 +1,7 @@
 ---
 title: Pratinidhi API
-emoji: 🇮🇳
-colorFrom: orange
+emoji: 💬
+colorFrom: yellow
 colorTo: blue
 sdk: docker
 pinned: false
