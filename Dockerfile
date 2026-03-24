@@ -27,5 +27,8 @@ EXPOSE 7860
 # We use a quiet python script to trigger the ingestion
 RUN python -c "import os; from backend.app.rag.ingestion import ingest_all; ingest_all()" || echo "Ingestion skipped or failed, will retry on startup"
 
-# Run the FastAPI server from the backend folder
-CMD ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "7860"]
+# Switch working directory to backend so Python imports (like 'app.main') resolve correctly
+WORKDIR $HOME/app/backend
+
+# Run the FastAPI server
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]
